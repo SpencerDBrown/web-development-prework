@@ -1,0 +1,10 @@
+All the bugs found
+
+1.) <div> </div> formatting issues causing blockage
+2.) in the .js quotations were needed around, Pink and Click for both the color function and the grow/shrink function.
+3.) needed <li></li> for the list of Boo's favorite things
+4.) Changing the color of the text needed both reformatting as well as changing the colors to the correct one (i.e. green>green not green>orange)
+5.) Random Fact generator needed to fix the .js reference at the bottom of the page as well as adding quotations and commas in the right spots to seperate the facts.
+6.) About Boo needed <p></p> to seperate the paragraphs from one another.
+7.) The photo of boo needed < > around the whole line. 
+8.) just to tidy it up I removed the instructions section to mimic the GrumpyCat file visually as much as I could in terms of formatting and end product.

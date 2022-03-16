@@ -1,0 +1,19 @@
+html commands
+
+title: Aptly named, this tag defines the title of the website as shown on the webpage's tab.
+
+head, body: These tags help define the structure of the overall webpage. In essence, head contains invisible matter that the browser uses to render the page correctly, whereas the body tag represents the actual content shown to the user.
+
+h1, h2, h3, h4, h5, h6: These tags represent the level of heading a given text block represents. Headings are exactly what they sound like; they are larger or more prominent elements of text on a page. They can be likened to topic sentences on a paper.
+
+p: This tag represents paragraphs or blocks of text. You'll use this tag extensively to wrap most of the text on your webpages.
+
+strong, em: These tags are used respectively to bold or italicize a given text element.
+
+br: This tag is used to create a line of empty space between two blocks of content.
+
+img: This tag is used to display images on a page. The syntax is slightly different (see below), but we will walk through its makeup later in the course.
+
+a: This tag (which stands for anchor) is used to create links to the same webpage or to other webpages. Again, the syntax is slightly different, but you'll become comfortable using a tags as the course progresses.
+
+ul, ol, li: These tags represent unordered lists, ordered lists, and list items. In essence, these HTML elements represent bulleted lists of symbols or numbers.
